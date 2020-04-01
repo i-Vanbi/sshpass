@@ -12,6 +12,8 @@ cd sshpass
 make && make install
 ```
 ## 用法说明  
+1：直接远程连接某台主机：  
+`sshpass -p xxx ssh root@192.168.11.11`xxx为密码。  
 
 
 ## Notes
